@@ -1,0 +1,4 @@
+numpy
+pytorch=0.4.0
+nltk
+spacy
