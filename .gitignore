@@ -1,2 +1,5 @@
 *.txt
-q.log
+*.npy
+
+rsync.sh
+connect.sh

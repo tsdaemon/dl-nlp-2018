@@ -1,4 +1,9 @@
-# Workshop: Deep learning for Natural Language Processing 
+# Workshop: Deep learning for Natural Language Processing
+Lectures and workouts for summer workshop in Ukrainian Catholic University.
+ 
 ## Environment
+Python >= 3.5 (Conda is preferable)
 
-Python 3.6
+
+## Usage
+To start, run `jupyter notebook`

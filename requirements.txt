@@ -3,4 +3,4 @@ pytorch==0.4.0
 nltk
 spacy
 jupyter_contrib_nbextensions
-git+git://github.com/robjstan/tikzmagic.git
+tqdm
