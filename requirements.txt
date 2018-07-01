@@ -1,6 +1,7 @@
 numpy
 pytorch==0.4.0
 nltk
-spacy
+pandas
 jupyter_contrib_nbextensions
 tqdm
+tokenize_uk

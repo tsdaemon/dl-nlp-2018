@@ -1,5 +1,7 @@
 *.txt
 *.npy
+*.bz2
+*.csv
 
 rsync.sh
 connect.sh
