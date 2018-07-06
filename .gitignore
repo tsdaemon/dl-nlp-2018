@@ -2,6 +2,7 @@
 *.npy
 *.bz2
 *.csv
+*.pth
 
 rsync.sh
 connect.sh
